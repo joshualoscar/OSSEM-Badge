@@ -5,7 +5,7 @@ executable. Choose your workspace to be ~/workspace. **WARNING** Eclipse does
 not do tilde exapansion so type out your full path to your workspace (for
 example /home/you\_username/workspace). Once Eclipse is loaded up go to Help >
 Eclipse Marketplace... In the find search bar we are going to type GNU. We need
-to install GNU ARM Eclipse 3.1.1. This will install the necessary libraries in
+to install GNU ARM Eclipse 3.X.X. (as of Jan 2017 it ver 3.2.1) This will install the necessary libraries in
 Eclipse to allow us to compile STM32 software within Eclipse. 
 ![eclipse-marketplace](images/gnu_eclipse_marketplace.png)
 
