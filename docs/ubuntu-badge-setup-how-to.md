@@ -7,8 +7,9 @@ packages need to be installed:
 - build-essential
 - libusb-1.0
 - libgtk-3-dev
+- openjdk-8-jre
 ```
-sudo apt-get install git make cmake build-essential libusb-1.0 libgtk-3-dev
+sudo apt-get install git make cmake build-essential libusb-1.0 libgtk-3-dev openjdk-8-jre
 ```
 
 # Install ST-Link software
